@@ -1,0 +1,18 @@
+
+{
+  "name": "agilstore-inventory",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sistema de controle de estoque via terminal para AgilStore",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "inventory",
+    "node",
+    "cli"
+  ],
+  "author": "AgilStore Dev",
+  "license": "MIT"
+}
